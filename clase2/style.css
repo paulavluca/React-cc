@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(209, 209, 209) !important;
+}
+
+h1{
+    font-size: 10px;
+    padding-top: 100px;
+    font-family: "Open-sans", sans-serif;
+    text-align: center;
+}
+
+form{
+    padding-top: 30px;
+    height: 100px;
+    padding-bottom: 220px;
+    padding-left: 30px;
+    text-align: center;
+}
+
+form input{
+    margin-top: 10px;
+    border-radius: 2%;
+}
+
+form label{
+    color: rgb(6, 30, 53);
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.container_cards1{
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-bottom: 100px;
+    height: 100px;
+}
